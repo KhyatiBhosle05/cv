@@ -1,0 +1,19 @@
+
+body {background-color:#ffe8e8;}
+            
+hr{background-color: #ffe8e8;
+    border-color: salmon;
+    border-width: 5px;
+    border-style: dotted none none none;
+    height: 0px;
+    width: 5%}
+
+h1{
+   color:  rgb(224, 120, 86); 
+   font-family:'Courier New', Courier, monospace;
+}
+
+h3{
+    color: rgb(224, 120, 86);
+    font-family:'Courier New', Courier, monospace ;
+}
